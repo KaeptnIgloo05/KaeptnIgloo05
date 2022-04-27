@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaeptn Igloo05
 - 👀 I’m interested in Casualy programmin
-- 🌱 I’m currently learning to makw Websites with Flask
+- 🌱 I’m currently learning to make Websites with Flask
 
 <!---
 KaeptnIgloo05/KaeptnIgloo05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
